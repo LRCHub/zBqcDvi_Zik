@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "不老不死",
+  "base_artist": "Losstime Life",
+  "createdAt": "2025-12-12T12:30:47.969457Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "不老不死",
+      "artist": "Losstime Life",
+      "has_synced": true,
+      "path": "select/01_不老不死_Losstime_Life.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "不老不死",
+      "artist": "edda",
+      "has_synced": true,
+      "path": "select/02_不老不死_edda.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "不老不死",
+      "artist": "Losstime Life",
+      "has_synced": false,
+      "path": "select/pl_01_不老不死_Losstime_Life.txt"
+    }
+  ]
+}
